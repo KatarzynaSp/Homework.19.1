@@ -49,6 +49,4 @@ public class FilteringMachineTwoTest {
         assertThat(users, hasItem(new User("Janusz", 52, "Janusz_52")));
         assertThat(users, hasItem(new User("Sebastian", 16, "Sebastian_16")));
     }
-
-
 }
